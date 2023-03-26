@@ -18,7 +18,9 @@ EXECUTAR
 para executar, execute os comandos a baixo.
 
 git clone https://github.com/slayerkk/DNSBrute.git
+
 cd DNSBrute
+
 python3 DNSBrute.py
 
 CONTATO
