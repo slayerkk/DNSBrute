@@ -1,4 +1,7 @@
 import dns.resolver, os
+os.system('sudo apt install python3-pip')
+os.system('pkg install python3-pip')
+os.system('pip install dnspython')
 os.system('clear')
 #cores
 vermelho = '\033[41m'
